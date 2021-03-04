@@ -84,7 +84,8 @@ Note : Fill both or leave both unless bot won't work.
 1) Add database to support Channel Posting easily
 2) Add support to remove specific entities like Hashtags, URLs, etc. 
 3) Support for bot stats in Telegram
-4) Detect NFSW stuff to prevent take down of any bot.
+4) Detect NSFW stuff to prevent take down of any bot.
+5) Support for groups, message dump n banning
 
 ## Stats
 [![GitHub forks](https://img.shields.io/github/forks/MysteryBots/AnonBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/MysteryBots/AnonBot/network/) [![GitHub stars](https://img.shields.io/github/stars/MysteryBots/AnonBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MysteryBots/AnonBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/MysteryBots/AnonBot.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/MysteryBots/AnonBot/watchers/)
