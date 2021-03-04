@@ -45,7 +45,7 @@ Telegram bot to remove the forwarded tag from messages.
 Note : Fill both or leave both unless bot won't work.
 2) Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes). 
 3) After deploying is complete, tap on "Manage App"
-4) Turn on the dynos. Your bot is ready! 
+4) Check the logs to see if your bot is ready! 
 
 ### Local Deploying
 1) Clone the repo
