@@ -1,8 +1,6 @@
 {
   "name": "Anon Bot",
-  "description": "Telegram bot to remove the forwarded tag from messages.
-
-",
+  "description": "Telegram bot to remove the forwarded tag from messages.",
   "logo": "https://telegra.ph/file/1f46b268ce67b6300bb92.jpg",
   "keywords": [
     "telegram",
