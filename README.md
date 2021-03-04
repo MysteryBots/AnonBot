@@ -52,7 +52,7 @@ Note : Fill both or leave both unless bot won't work.
    ```markdown
    git clone https://github.com/MysteryBots/AnonBot
    ```
-2) Edit `Config.py` and Fill the needed variables by following [this](https://github.com/MysteryBots/AnonBot/blob/master/Config.py#L9) 
+2) Edit `Config.py` and fill the needed variables by following [this](https://github.com/MysteryBots/AnonBot/blob/master/Config.py#L11) 
 
 3) Enter the directory
    ```markdown
